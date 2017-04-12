@@ -1,0 +1,12 @@
+{
+    "name": "mkkn/csfixer",
+    "authors": [
+        {
+            "name": "t.goto",
+            "email": "t.goto@chatbox-inc.com"
+        }
+    ],
+    "require": {
+        "friendsofphp/php-cs-fixer": "^2.2"
+    }
+}
